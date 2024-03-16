@@ -1,3 +1,10 @@
-{"name":"Mieing’s icon","icons":
-[{"name":"jiana.png","url":"https://raw.githubusercontent.com/Mieing/Qure/master/IconSet/jiana.png"},
-"description":"@iOSMie"}
+{
+  "name": "Mieing's icon",
+  "description": "TG@Mie",
+  "icons": [
+    {
+      "name": "jiana",
+      "url": "https://raw.githubusercontent.com/Mieing/Qure/master/IconSet/jiana.png"
+    }
+  ]
+}
